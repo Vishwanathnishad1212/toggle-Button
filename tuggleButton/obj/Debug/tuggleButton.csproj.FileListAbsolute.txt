@@ -1,0 +1,10 @@
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\bin\Debug\tuggleButton.exe.config
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\bin\Debug\tuggleButton.exe
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\bin\Debug\tuggleButton.pdb
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.csprojResolveAssemblyReference.cache
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.Form1.resources
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.Properties.Resources.resources
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.csproj.GenerateResource.cache
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.csproj.CoreCompileInputs.cache
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.exe
+C:\Users\GoddessQueen-786\source\repos\tuggleButton\tuggleButton\obj\Debug\tuggleButton.pdb
